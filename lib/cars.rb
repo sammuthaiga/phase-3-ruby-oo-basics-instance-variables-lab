@@ -23,5 +23,5 @@ Ford = Car.new
 Ford.name = "Ford"
 Ford.model = "Ranger"
 
-puts "This is a #{Benz.name}. #{Benz.model} new 2019 model" 
-puts "This is a #{Ford.name}. #{Ford.model} new 2020 model"
+puts "This is a #{Benz.name}. #{Benz.model} 2019 new model" 
+puts "This is a #{Ford.name}. #{Ford.model} 2020 new model"
